@@ -12,6 +12,4 @@ min sdk version 14
 compile sdk version 19
 build tools version 19.1.0
 
-Currently, the graphite library loads but failed on the first call to addFontResource.
-Error message:
-06-17 11:25:09.950  13114-13114/test.example.callgraphite.app A/libc﹕ Fatal signal 11 (SIGSEGV) at 0x00000000 (code=1)
+Project is currently hard coded to show Padauk and Scheherazade strings in text view and web view.  Text view is above Web View
